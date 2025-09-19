@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
+openpyxl
+unstructured
+msoffcrypto-tool
+xlrd
