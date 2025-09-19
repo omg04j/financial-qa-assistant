@@ -38,8 +38,8 @@ cd financial-qa-assistant
 
 ```bash
 python -m venv venv
-source venv/bin/activate
-venv\Scripts\Activate.ps1
+source venv/bin/activate   #for Mac/Linux
+venv\Scripts\Activate  #for Window  
 pip install -r requirements.txt
 ```
 
