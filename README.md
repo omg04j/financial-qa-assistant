@@ -30,7 +30,7 @@ Built using **Streamlit, LangChain, FAISS, Hugging Face Embeddings, and Ollama**
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/financial-qa-assistant.git
+git clone https://github.com/omg04j/financial-qa-assistant.git
 cd financial-qa-assistant
 ```
 
